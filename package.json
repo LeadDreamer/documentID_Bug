@@ -20,7 +20,7 @@
     "firebaseui": "4.3.0",
     "foundation-sites": "6.5.3",
     "is-string": "1.0.4",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "lodash": "4.17.15",
     "moment": "2.24.0",
     "qrcode.react": "0.9.3",
