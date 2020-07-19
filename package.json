@@ -21,7 +21,7 @@
     "foundation-sites": "6.5.3",
     "is-string": "1.0.4",
     "jquery": "3.4.1",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "moment": "2.24.0",
     "qrcode.react": "0.9.3",
     "rc-table": "6.8.6",
